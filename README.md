@@ -112,7 +112,7 @@ You can download them from Google Drive:
 ## 📈 Visualizations  
 
 - Fraud vs Non-Fraud Distribution (`images/fraud_vs_nonfraud.png`)
-  <img width="567" height="455" alt="fraud_vs_nonfraud" src="https://github.com/user-attachments/assets/9ce93436-6636-43e8-8830-be64797f3034" />
+<img width="567" height="455" alt="fraud_vs_nonfraud" src="https://github.com/user-attachments/assets/9ce93436-6636-43e8-8830-be64797f3034" />
 
 
 - Transaction Amount Distribution (`images/amount_distribution.png`)  
